@@ -79,7 +79,7 @@ Monthly expenditure increased during the three-month period:
 | --- | ---: |
 | January | ₹3,349 |
 | February | ₹3,599 |
-| March | ₹3,678 |
+| March | ₹2,428 |
 
 March recorded the highest monthly expenditure.
 
