@@ -1,0 +1,20 @@
+Transaction_ID,Date,Description,Category,Payment_Method,Amount_INR
+T001,03-01-2026,Groceries,Food,UPI,850.00
+T002,05-01-2026,Bus pass,Transport,UPI,500.00
+T003,08-01-2026,Mobile recharge,Bills,UPI,299.00
+T004,12-01-2026,Lunch,Food,Cash,180.00
+T005,15-01-2026,Notebook,Education,UPI,250.00
+T006,18-01-2026,Movie,Entertainment,UPI,350.00
+T007,22-01-2026,Groceries,Food,UPI,920.00
+T008,02-02-2026,Internet bill,Bills,UPI,599.00
+T009,04-02-2026,Bus fare,Transport,Cash,120.00
+T010,07-02-2026,Course materials,Education,UPI,450.00
+T011,10-02-2026,Cafe,Food,UPI,280.00
+T012,14-02-2026,Gift,Shopping,UPI,650.00
+T013,18-02-2026,Groceries,Food,UPI,1100.00
+T014,22-02-2026,Movie,Entertainment,UPI,400.00
+T015,01-03-2026,Mobile recharge,Bills,UPI,299.00
+T016,04-03-2026,Transport,Transport,Cash,250.00
+T017,08-03-2026,Groceries,Food,UPI,980.00
+T018,12-03-2026,Online course,Education,UPI,799.00
+T020,20-03-2026,Snacks,, cash,150.00
